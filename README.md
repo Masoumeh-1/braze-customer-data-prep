@@ -20,4 +20,4 @@ This project simulates preparing clean customer data for marketing platforms lik
 
 ## Demo
 
-![App Screenshot](screenshot.png)
+![App Screenshot](Screenshot.png)
